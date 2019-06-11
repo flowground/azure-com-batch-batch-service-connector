@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the BatchService API (version 2018-12-01.8.0).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/batch-BatchService/2018-12-01.8.0/swagger.json<br/>
-Generated at: 2019-05-07T17:37:39+03:00
+Generated at: 2019-06-11T18:13:46+03:00
 
 ## API Description
 
